@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mohammed-Abdelmoneim/AirBnB_clone/blob/main/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="https://github.com/Mohammed-Abdelmoneim/AirBnB_clone/blob/main/hbnb.png" alt="HolbertonBnB logo">
 </p>
 
 
